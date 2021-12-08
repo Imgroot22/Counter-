@@ -1,0 +1,10 @@
+h1,
+p {
+  font-family: Lato;
+}
+button {
+  color: aliceblue;
+  background-color: black;
+  padding: 15px 20px;
+  font-size: large;
+}
